@@ -1,8 +1,8 @@
 ﻿THE Monopoly 
 
 ### Informations factuelles ###
-par Tristan Damian 11509696, Matthieu Cherrier 11507416, Kevin Burdin 11507706
-Dans le cadre d'un projet de développement d'application (2016).
+par Matthieu Cherrier, Tristan, Kevin
+Dans le cadre d'un projet de développement d'application en C++ de deuxième année de licence informatique (2016).
 Trouvable sur la forge Mercurial sous le nom : [p1507416] THE Monopoly  
 ou par le biais du lien suivant : https://forge.univ-lyon1.fr/hg/p1507416-monopoly
 
